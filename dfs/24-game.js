@@ -3,6 +3,7 @@
  * @return {boolean}
  */
 /**
+ * LC 679
  * each recursive call we pick two elements
  * i.e. [4,1,8,7] pick 8, 4 produce 8-4 = 4, 
  * [4, 1, 7] pick 7, 1 produce 7-1 = 6,
